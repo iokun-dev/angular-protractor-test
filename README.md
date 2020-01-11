@@ -28,3 +28,5 @@ You should see a Chrome browser window open up and navigate to the todo list in 
 Congratulations, you've run your test.
 
 > Note: JDK is needed in the system to run selenium webdriver
+>
+> Note: NodeJs is required
