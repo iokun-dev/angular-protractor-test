@@ -1,0 +1,8 @@
+[
+    { 
+        "_id" : "arjun",
+        "password" : "arjun", 
+        "username" : "arjun",
+        "role": "superuser"
+    }
+]
