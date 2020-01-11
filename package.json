@@ -1,0 +1,32 @@
+{
+  "name": "angular-protractor-test",
+  "version": "1.0.0",
+  "description": "angular tests with protractor and jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iokun-dev/angular-protractor-test.git"
+  },
+  "keywords": [
+    "angular",
+    "protractor",
+    "test",
+    "jasmine"
+  ],
+  "author": "Arjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iokun-dev/angular-protractor-test/issues"
+  },
+  "homepage": "https://github.com/iokun-dev/angular-protractor-test#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jasmine": "^3.5.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "mongoose": "^5.8.7",
+    "protractor": "^5.4.2"
+  }
+}
