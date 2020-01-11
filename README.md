@@ -1,6 +1,6 @@
 # angular-protractor-test
 
-##Setup
+## Setup
 
 Use npm to install Protractor globally with:
 > npm install -g protractor
